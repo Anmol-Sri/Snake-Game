@@ -48,7 +48,7 @@ void main()
     	if(restart){
     		for(i=0;i<6;i++)
     			snkx[i]=30+i*2;
-    		for(i=6;i<20;o++)
+    		for(i=6;i<20;i++)
     			snkx[i]=0;
     		for(i=0;i<20;i++)
     			snky[i]=9;
