@@ -1,2 +1,9 @@
 # Snake-Game
-A traditional old snake game......remembering the olden days....
+
+## About
+
+A traditional old snake game remembering the good olden days.
+
+## Used Technologies
+
+C++ and Graphics and DOS header package.
